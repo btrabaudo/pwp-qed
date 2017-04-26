@@ -24,9 +24,25 @@
 
         <p><strong>Professional Needs:</strong> Although his company is looking to hire, they are only looking for the best. Which means, a strong knowledge of tech, coding, and pen testing, but also an interesting employee who comes from a background that highlights problem solving anc creative thinking.</p>
 
-        <p><strong>Tech Profile:</strong> The importance of this section can not be underestimated with David. He looks at code everyday from some of the best coders in the world. His clients include places like Uber and Bank of America. He will be accessing the website via a high-powered laptop.</p>
 
         <p><strong>Persona Conclusions:</strong> David, wants to get the most of his time and is interested in clear, clean, designs that are beautiful because of their utility and simplicity. It should be noted that David will look almost instantly at the source code and also probe for areas to exploit in a website. Having ugly code or insecure sites will instantly be a red flag.</p>
+
+        <h2>David Spector Use Case</h2>
+
+        <p><strong>Overview:</strong> David, sees an application for a potential employee.</p>
+
+        <p><strong>When:</strong>At work and at home</p>
+
+        <p><strong>Tech Profile:</strong> The importance of this section can not be underestimated with David. He looks at code everyday from some of the best coders in the world. His clients include places like Uber and Bank of America. He will be accessing the website via a high-powered laptop.</p>
+
+        <h2>Interaction Flow</h2>
+        <ol>
+            <li>David navigates to site</li>
+            <li>David clicks some buttons just to see what they do</li>
+            <li>David views source code</li>
+            <li>David tests for any exploits</li>
+            <li>David takes advantage of exploits</li>
+        </ol>
 
 
     </main>
