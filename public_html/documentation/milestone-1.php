@@ -11,6 +11,12 @@
         </header>
 
     <main>
+
+        <h2>General Description</h2>
+
+        <p><strong>Audience:</strong>Future employers and hiring managers for tech based jobs.</p>
+        <p><strong>Purpose:</strong> To display myself in a professional and intriguing way that will intrigue future employers.</p>
+
         <h2>Persona</h2>
 
         <p><strong>David Spector</strong></p>
