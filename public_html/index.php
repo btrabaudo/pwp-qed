@@ -35,34 +35,65 @@
     </head>
 
     <body class="sfooter">
-    <div class="sfooter-content">
+        <div class="sfooter-content">
 
-        <header>
+            <header>
+
             <nav class="navbar navbar-default">
-                <div class="container">
+                <div class="container-fluid">
                     <!-- Brand and toggle get grouped for better mobile display -->
                     <div class="navbar-header">
-                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#main-menu" aria-expanded="false">
-                            <span class="sr-only">Toggle navigation</span>
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                        </button>
-                        <a class="navbar-brand" href="#">
-                            <img alt="logo" src="../public_html/images/logo.jpeg"
-                        </a>
-                    </div>
 
-                    <!-- Collect the nav links, forms, and other content for toggling -->
-                    <div class="collapse navbar-collapse" id="main-menu">
-                        <ul class="nav navbar-nav navbar-right">
-                            <li></li>
-                        </ul>
-                    </div><!-- /.navbar-collapse -->
-                </div><!-- /.container-fluid -->
+                        <a class="navbar-left" href="#">
+                            <img src="../public_html/images/logo.jpeg" alt="logo"/>
+                        </a>
+
+                        <p class="navbar-text">Changing Lives Through Web Development</p>
+                        <!-- Collect the nav links, forms, and other content for toggling -->
+                        <div class="bbtn-group btn-group-md" role="group" aria-label="...">
+                            <button type="button" class="btn btn-default"><i class="fa fa-github fa-2x" aria-hidden="true"></i></button>
+                            <button type="button" class="btn btn-default"><i class="fa fa-linkedin-square fa-2x" aria-hidden="true"></i></button>
+                        </div>
+
+                    </div><!-- /.container-fluid -->
             </nav>
         </header>
 
+            <div class="row">
+                <div class="col-xs-24 col-md-12">
+                    <a href="#" class="thumbnail">
+                        <img src="../public_html/images/euclid1.gif" alt="Euclid Prop 1.47">
+                        <div class="caption">
+                            <h3>Work Profile</h3>
+                            <p>Vegan aesthetic occupy leggings art party cardigan. Put a bird on it tumblr blog etsy. Pickled umami ramps unicorn, +1 paleo cloud bread direct trade taiyaki woke pour-over sriracha health goth leggings. Chicharrones occupy aesthetic irony waistcoat, thundercats twee drinking vinegar viral narwhal venmo lo-fi four dollar toast truffaut.</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-xs-24 col-md-12">
+                    <a href="#" class="thumbnail">
+                        <img src="../public_html/images/euclid1.gif" alt="Euclid Prop 1.47">
+                        <div class="caption">
+                            <h3>Personal Life</h3>
+                            <p>Vegan aesthetic occupy leggings art party cardigan. Put a bird on it tumblr blog etsy. Pickled umami ramps unicorn, +1 paleo cloud bread direct trade taiyaki woke pour-over sriracha health goth leggings. Chicharrones occupy aesthetic irony waistcoat, thundercats twee drinking vinegar viral narwhal venmo lo-fi four dollar toast truffaut.</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-xs-24 col-md-12">
+                    <a href="#" class="thumbnail">
+                        <img src="../public_html/images/euclid1.gif" alt="Euclid Prop 1.47">
+                        <div class="caption">
+                            <h3>Academic Life</h3>
+                            <p>Vegan aesthetic occupy leggings art party cardigan. Put a bird on it tumblr blog etsy. Pickled umami ramps unicorn, +1 paleo cloud bread direct trade taiyaki woke pour-over sriracha health goth leggings. Chicharrones occupy aesthetic irony waistcoat, thundercats twee drinking vinegar viral narwhal venmo lo-fi four dollar toast truffaut.</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
 
     </div>
     </body>
