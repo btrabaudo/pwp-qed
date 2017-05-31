@@ -1,3 +1,7 @@
+.sfooter-content {
+    background: white;
+}
+
 
 nav.navbar.navbar-default{
     background: white;
@@ -13,8 +17,12 @@ nav.navbar.navbar-default{
     padding-left: 11.5em;
     color: #FF8900;
 }
+.jumbotron {
+    border: groove;
+    background: #FF8900;
+}
 
-img {
+img.navbar.navbar-default {
     height: 8em;
     padding-bottom: .5em;
 

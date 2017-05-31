@@ -59,40 +59,27 @@
             </nav>
         </header>
 
-            <div class="row">
-                <div class="col-xs-24 col-md-12">
-                    <a href="#" class="thumbnail">
+            <div class="jumbotron">
                         <img src="../public_html/images/euclid1.gif" alt="Euclid Prop 1.47">
                         <div class="caption">
                             <h3>Work Profile</h3>
                             <p>Vegan aesthetic occupy leggings art party cardigan. Put a bird on it tumblr blog etsy. Pickled umami ramps unicorn, +1 paleo cloud bread direct trade taiyaki woke pour-over sriracha health goth leggings. Chicharrones occupy aesthetic irony waistcoat, thundercats twee drinking vinegar viral narwhal venmo lo-fi four dollar toast truffaut.</p>
-                        </div>
-                    </a>
                 </div>
             </div>
 
-            <div class="row">
-                <div class="col-xs-24 col-md-12">
-                    <a href="#" class="thumbnail">
-                        <img src="../public_html/images/euclid1.gif" alt="Euclid Prop 1.47">
-                        <div class="caption">
-                            <h3>Personal Life</h3>
-
-                        </div>
-                    </a>
+            <div class="jumbotron">
+                <img src="../public_html/images/euclid1.gif" alt="Euclid Prop 1.47">
+                <div class="caption">
+                    <h3>Work Profile</h3>
                     <p>Vegan aesthetic occupy leggings art party cardigan. Put a bird on it tumblr blog etsy. Pickled umami ramps unicorn, +1 paleo cloud bread direct trade taiyaki woke pour-over sriracha health goth leggings. Chicharrones occupy aesthetic irony waistcoat, thundercats twee drinking vinegar viral narwhal venmo lo-fi four dollar toast truffaut.</p>
                 </div>
             </div>
 
-            <div class="row">
-                <div class="col-xs-24 col-md-12">
-                    <a href="#" class="thumbnail">
-                        <img src="../public_html/images/euclid1.gif" alt="Euclid Prop 1.47">
+            <div class="jumbotron">
+                        <img src="../public_html/images/sjcWinter.jpg" alt="St. John's College Winter">
                         <div class="caption">
                             <h3>Academic Life</h3>
                             <p>Vegan aesthetic occupy leggings art party cardigan. Put a bird on it tumblr blog etsy. Pickled umami ramps unicorn, +1 paleo cloud bread direct trade taiyaki woke pour-over sriracha health goth leggings. Chicharrones occupy aesthetic irony waistcoat, thundercats twee drinking vinegar viral narwhal venmo lo-fi four dollar toast truffaut.</p>
-                        </div>
-                    </a>
                 </div>
             </div>
 
