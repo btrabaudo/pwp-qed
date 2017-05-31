@@ -28,3 +28,9 @@ I recommend taking a little extra time nailing down what exactly your site is go
 ### Grade: Tier II
 
 I am going to go ahead and clear you to begin for on Milestone2b, but I highly recommend spending a little more time nailing down what the site is going to look like before you start
+
+## Milestone 2b Feedback
+
+Overall you've made good progress, and your PWP is shaping up nicely. With a little work you'll have something really great to show off.
+
+Grade Tier III - Good job!
