@@ -38,52 +38,53 @@
         <div class="sfooter-content">
 
             <header>
-
-            <nav class="navbar navbar-default">
-                <div class="container-fluid">
-                    <!-- Brand and toggle get grouped for better mobile display -->
-                    <div class="navbar-header">
-
-                        <a class="navbar-left" href="#">
-                            <img src="../public_html/images/logo.jpeg" alt="logo"/>
-                        </a>
-
-                        <p class="navbar-text">Changing Lives Through Web Development</p>
-                        <!-- Collect the nav links, forms, and other content for toggling -->
-                        <div class="bbtn-group btn-group-md" role="group" aria-label="...">
-                            <button type="button" class="btn btn-default"><i class="fa fa-github fa-2x" aria-hidden="true"></i></button>
-                            <button type="button" class="btn btn-default"><i class="fa fa-linkedin-square fa-2x" aria-hidden="true"></i></button>
+                <nav>
+                    <div class="container-fluid">
+                        <div class="col-xs-4">
+                            <a href="#">
+                                <img class="img-responsive" src="../public_html/images/logo.jpeg" alt="logo">
+                            </a>
                         </div>
-
-                    </div><!-- /.container-fluid -->
-            </nav>
+                        <div class="col-xs-4 text-center">
+                            <p class="navbar-text">Changing Lives Through Web Development</p>
+                        </div>
+                        <div class="col-xs-4 text-right">
+                            <div class="btn-group btn-group-md" role="group">
+                                <button type="button" class="btn btn-default"><i class="fa fa-github fa-2x" aria-hidden="true"></i></button>
+                                <button type="button" class="btn btn-default"><i class="fa fa-linkedin-square fa-2x" aria-hidden="true"></i></button>
+                            </div>
+                        </div>
+                    </div>
+                </nav>
         </header>
 
             <div class="jumbotron">
-                        <img src="../public_html/images/euclid1.gif" alt="Euclid Prop 1.47">
+                        <div class="workImage">
                         <div class="caption">
                             <h3>Work Profile</h3>
                             <p>Vegan aesthetic occupy leggings art party cardigan. Put a bird on it tumblr blog etsy. Pickled umami ramps unicorn, +1 paleo cloud bread direct trade taiyaki woke pour-over sriracha health goth leggings. Chicharrones occupy aesthetic irony waistcoat, thundercats twee drinking vinegar viral narwhal venmo lo-fi four dollar toast truffaut.</p>
+                        </div>
                 </div>
             </div>
 
             <div class="jumbotron">
-                <img src="../public_html/images/euclid1.gif" alt="Euclid Prop 1.47">
+              <div class="personalImage">
                 <div class="caption">
                     <h3>Work Profile</h3>
                     <p>Vegan aesthetic occupy leggings art party cardigan. Put a bird on it tumblr blog etsy. Pickled umami ramps unicorn, +1 paleo cloud bread direct trade taiyaki woke pour-over sriracha health goth leggings. Chicharrones occupy aesthetic irony waistcoat, thundercats twee drinking vinegar viral narwhal venmo lo-fi four dollar toast truffaut.</p>
                 </div>
+              </div>
             </div>
 
             <div class="jumbotron">
-                        <img src="../public_html/images/sjcWinter.jpg" alt="St. John's College Winter">
-                        <div class="caption">
+                <div class="sjcImage"
+                    <div class="caption">
                             <h3>Academic Life</h3>
-                            <p>Vegan aesthetic occupy leggings art party cardigan. Put a bird on it tumblr blog etsy. Pickled umami ramps unicorn, +1 paleo cloud bread direct trade taiyaki woke pour-over sriracha health goth leggings. Chicharrones occupy aesthetic irony waistcoat, thundercats twee drinking vinegar viral narwhal venmo lo-fi four dollar toast truffaut.</p>
+                            <p>Vegan aesthetic occupy leggings art party cardigan. Put a bird on it tumblr blog etsy. Pickled umami ramps unicorn, +1 paleo cloud bread direct trade taiyaki woke pour-over sriracha health goth leggings. Chicharrones occupy aesthetic irony waistcoat, thundercats twee drinking vinegar viral narwhal venmo lo-fi four dollar toast truffaut.Vegan aesthetic occupy leggings art party cardigan. Put a bird on it tumblr blog etsy. Pickled umami ramps unicorn. </p>
                 </div>
             </div>
+        </div>
 
-    </div>
     </body>
 
     <!-- Contact Section -->

@@ -17,10 +17,32 @@ nav.navbar.navbar-default{
     padding-left: 11.5em;
     color: #FF8900;
 }
-.jumbotron {
-    border: groove;
-    background: #FF8900;
+
+.jumbotron{
+    padding: 0;
+    margin: 0;
 }
+.sjcImage {
+    background: url("../images/sjcWinter.jpg") no-repeat center;
+    background-size: cover;
+    padding-bottom: 30em;
+    color: white;
+}
+
+.personalImage {
+    background: url("../images/jemez.jpg") no-repeat center;
+    background-size: cover;
+    padding-bottom: 30em;
+    color: white;
+}
+
+.workImage {
+    background: url("../images/comp.jpeg") no-repeat center;
+    background-size: cover;
+    padding-bottom: 30em;
+    color: white;
+}
+
 
 img.navbar.navbar-default {
     height: 8em;
@@ -33,7 +55,9 @@ img.navbar.navbar-default {
     padding-left: 70em;
 }
 
-.sfooter {
-    background: cornflowerblue;
+.container {
+    background-color: #FF8900;
 }
+
+
 
