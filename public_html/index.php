@@ -141,15 +141,16 @@
                             </div>
                             <textarea class="form-control" rows="5" id="message" name="message" placeholder="Message (2000 characters max)"></textarea>
                         </div>
+                        <!-- reCAPTCHA -->
+                        <div class="g-recaptcha" data-sitekey="--YOUR RECAPTCHA SITE KEY--"></div>
+
+                        <button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
+                        <button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i> Reset</button>
+                </form>
                     </div>
             </div>
 
-            <!-- reCAPTCHA -->
-            <div class="g-recaptcha" data-sitekey="--YOUR RECAPTCHA SITE KEY--"></div>
 
-            <button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
-            <button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i> Reset</button>
-            </form>
 
             <!--empty area for form error/success output-->
             <div class="row">
