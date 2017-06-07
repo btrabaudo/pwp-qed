@@ -74,7 +74,7 @@
                         <div class="workImage">
                         <div class="caption">
                             <h3>Work Profile</h3>
-                            <p>Vegan aesthetic occupy leggings art party cardigan. Put a bird on it tumblr blog etsy. Pickled umami ramps unicorn, +1 paleo cloud bread direct trade taiyaki woke pour-over sriracha health goth leggings. Chicharrones occupy aesthetic irony waistcoat, thundercats twee drinking vinegar viral narwhal venmo lo-fi four dollar toast truffaut.</p>
+                            <p>Not your average developer and entrepreneur. With a non-traditional background, a B.A. in Philosophy and History of Advanced Science and Mathematics, and a prior career in the arts, creative problem solving, and out of the box thinking are at the heart of my work.</p>
                         </div>
                 </div>
             </div>
@@ -83,7 +83,7 @@
               <div class="personalImage">
                 <div class="caption">
                     <h3>Work Profile</h3>
-                    <p>Vegan aesthetic occupy leggings art party cardigan. Put a bird on it tumblr blog etsy. Pickled umami ramps unicorn, +1 paleo cloud bread direct trade taiyaki woke pour-over sriracha health goth leggings. Chicharrones occupy aesthetic irony waistcoat, thundercats twee drinking vinegar viral narwhal venmo lo-fi four dollar toast truffaut.</p>
+                    <p>CEO of Hippo Development a company that creates mobile and web applications in order to optimize flow between clients and their desired good or service. Formally Billy was an Arts Manager and student of Philosophy and Advanced Mathematics.</p>
                 </div>
               </div>
             </div>
@@ -92,7 +92,7 @@
                 <div class="sjcImage"
                     <div class="caption">
                             <h3>Academic Life</h3>
-                            <p>Vegan aesthetic occupy leggings art party cardigan. Put a bird on it tumblr blog etsy. Pickled umami ramps unicorn, +1 paleo cloud bread direct trade taiyaki woke pour-over sriracha health goth leggings. Chicharrones occupy aesthetic irony waistcoat, thundercats twee drinking vinegar viral narwhal venmo lo-fi four dollar toast truffaut.Vegan aesthetic occupy leggings art party cardigan. Put a bird on it tumblr blog etsy. Pickled umami ramps unicorn. </p>
+                            <p>Billy's area of study is the philosophy of Shakespeare, Plato, and Nietzsche. He has given papers on Hamlet, King Lear, and others dealing primarily with Shakespeare's characters relationship to reason and knowledge. </p>
                 </div>
             </div>
         </div>
@@ -144,7 +144,7 @@
                     </div>
 
                     <!-- Google reCAPTCHA -->
-                    <div class="g-recaptcha" data-sitekey="6Lf1zyMUAAAAAC8Dzz3pD0Lqclnqni7rtyXh9Kpe"></div>
+                    <div class="g-recaptcha" data-sitekey="6Le50SMUAAAAADae41eYE0s-WkDyZNoWHdbs6-re"></div>
 
                     <button class="btn btn-default" type="reset">Reset</button>
                     <button class="btn btn-info" type="submit">Submit</button>
